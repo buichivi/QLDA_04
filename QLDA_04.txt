@@ -3,8 +3,3 @@ A39117_Bùi Thị Thùy Linh
 A34750_Nguyễn Tiến Hiệp
 
 
-- XYZMNO 98765
-- ABCDEF 12345
-
-
-
